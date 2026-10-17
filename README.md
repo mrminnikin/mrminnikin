@@ -10,7 +10,7 @@ I design and build agentic AI systems for industries where mistakes are regulate
 - **MCP servers and Claude connectors**, secured with OAuth 2.1
 - **Agents with human approval**: nothing is saved or sent until a person signs it off
 - **AI safety in practice**: evals, guardrails, prompt-injection defence, spending caps and audit trails
-- **Integrations for UK advice firms**, including Intelliflo Office
+- **Integrations for UK advice firms**, including Intelligent Office
 
 ### Selected work
 
