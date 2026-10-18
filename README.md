@@ -3,7 +3,7 @@
 **Principal AI Architect & Technology Leader · Regulated Financial Services**
 Founder of Minibit Ltd · Newcastle upon Tyne, UK · [minnikin.ai](https://minnikin.ai)
 
-I design and build agentic AI systems for industries where mistakes are regulated: MCP servers, Claude connectors, agents with a person in the loop, and the guardrails around them. My 25-year career spans software engineering, technology leadership and computing education, including 11 years’ experience in regulated financial services. As Head of Software Development at Lowes Financial Management, I led a team of five and software, infrastructure and data for a firm with £1bn+ in client assets. I also served as Deputy Data Protection Officer, with basic and advanced practitioner training in data protection. Earlier engineering work covered transmission and distribution of power and aerospace engine asset management.
+I design and build agentic AI systems for industries where mistakes are regulated: MCP servers, Claude connectors, agents with a person in the loop, and the guardrails around them. My 25-year career spans software engineering, technology leadership and computing education, including 11 years’ experience in regulated financial services. As Head of Software Development at Lowes Financial Management, I led a team of five and software, infrastructure and data for a firm with £1bn+ in client assets. I also served as Deputy Data Protection Officer, with GDPR Foundation / Practitioner training from IT Governance (2022). Earlier engineering work covered transmission and distribution of power and aerospace engine asset management.
 
 ### Selected results
 
