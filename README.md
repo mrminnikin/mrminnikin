@@ -3,10 +3,11 @@
 **Principal AI Architect & Technology Leader · Regulated Financial Services**
 Founder of Minibit Ltd · Newcastle upon Tyne, UK · [minnikin.ai](https://minnikin.ai)
 
-I design and build agentic AI systems for industries where mistakes are regulated: MCP servers, Claude connectors, agents with a person in the loop, and the guardrails around them. My 25-year career spans software engineering, technology leadership and computing education. As Head of Software Development at Lowes Financial Management, I led a team of five and software, infrastructure and data for a firm with £1bn+ in client assets. Earlier engineering work covered transmission and distribution of power and aerospace engine asset management.
+I design and build agentic AI systems for industries where mistakes are regulated: MCP servers, Claude connectors, agents with a person in the loop, and the guardrails around them. My 25-year career spans software engineering, technology leadership and computing education, including 11 years’ experience in regulated financial services. As Head of Software Development at Lowes Financial Management, I led a team of five and software, infrastructure and data for a firm with £1bn+ in client assets. I also served as Deputy Data Protection Officer, with basic and advanced practitioner training in data protection. Earlier engineering work covered transmission and distribution of power and aerospace engine asset management.
 
 ### Selected results
 
+- Accountable for six-monthly client valuation reports and annual costs and charges reporting for over 4,000 clients, ensuring accuracy before issue.
 - Reduced investment application processing time by over 90% and removed paper applications.
 - Designed, built and now operates Autocalls for Hamilton Thomas, delivered in under a year and live on the web with its first investors.
 - Led technology serving 80+ staff and 5,000+ clients, followed by post-acquisition migration and integration.
